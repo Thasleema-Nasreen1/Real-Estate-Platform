@@ -1,6 +1,6 @@
 # Aurum Estates — Backend (Express + MongoDB)
 
-REST API for the Aurum Estates real estate platform. Pairs with the React frontend built in Lovable.
+REST API for the Aurum Estates real estate platform. Pairs with the React frontend built in  .
 
 ## Stack
 - Node.js + Express
@@ -52,7 +52,7 @@ backend/
 
 ## Connecting the frontend
 
-In your Lovable project, set the env var:
+In your   project, set the env var:
 ```
 VITE_API_URL=http://localhost:5000/api
 ```
